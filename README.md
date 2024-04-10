@@ -5,6 +5,7 @@ We curated the Kuai dataset (https://kuairec.com/) and constructed it into a net
 
 ### Original:
 Datasets       #Users   #Videos   #User-video   #Video-video  #Classes 
+
 𝐾𝑢𝑎𝑖𝑅𝑒𝑐_𝑆𝑝𝑎𝑟𝑠𝑒  7,176    10,728     10,301,304    12,521,016   30 
 
 ### After preprocessing:
