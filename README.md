@@ -24,3 +24,11 @@ group.txt: classId nodeId
 feature_bag_of_word.txt: classId [wordID:number]
 
 
+### From Paper:
+@inproceedings{chen2023zero,
+  title={Zero-shot Micro-video Classification with Neural Variational Inference in Graph Prototype Network},
+  author={Chen, Junyang and Wang, Jialong and Dai, Zhijiang and Wu, Huisi and Wang, Mengzhu and Zhang, Qin and Wang, Huan},
+  booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
+  pages={966--974},
+  year={2023}
+}
